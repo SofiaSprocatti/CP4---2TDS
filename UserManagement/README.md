@@ -64,7 +64,7 @@ O projeto segue os princípios da Clean Architecture, organizando o código em c
 
 ## Tecnologias Utilizadas
 
-- **.NET 8** - Framework principal
+- **.NET 9** - Framework principal
 - **Entity Framework Core** - ORM e acesso a dados
 - **SQL Server** - Banco de dados
 - **Swagger/OpenAPI** - Documentação da API
